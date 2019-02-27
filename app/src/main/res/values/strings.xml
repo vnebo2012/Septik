@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Септик</string>
+    <string name="action_settings">Еще</string>
+    <string name="vvedite_znachenie">Введите значение</string>
+    <string name="vvedite_cenu">Введите цену</string>
+    <string name="vvedite_wag">Введите шаг</string>
+    <string name="Beton">Объем бетона, м3</string>
+    <string name="cena">Стоимость бетона</string>
+    <string name="arm_m_kg_bes">Аматура, м/кг</string>
+    <string name="cena_armaturi_vsya">Стоимость арматуры</string>
+    <string name="arm">Арматура</string>
+    <string name="eto_standart">Это стандартное значение</string>
+    <string name="eto_fiks">Это фиксированое значение</string>
+    <string name="arm1">Арматуру запрещено соединять</string>
+    <string name="arm2">в местах максимального</string>
+    <string name="arm3">напряжения стержней и зонах</string>
+    <string name="arm4">приложения концентрированой</string>
+    <string name="arm5">нагрузки на них.</string>
+    <string name="cena_betona_za_m3">Цена бетона, за м3:</string>
+    <string name="sloi_armaturi">Слои арматуры</string>
+    <string name="naxlest">Нахлест</string>
+    <string name="cena_armaturi_za_kg">Цена арматуры, за кг</string>
+    <string name="title_home">11111</string>
+</resources>

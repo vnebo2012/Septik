@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343535101253",
+    "firebase_url": "https://septik-f8e29.firebaseio.com",
+    "project_id": "septik-f8e29",
+    "storage_bucket": "septik-f8e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343535101253:android:2b5e3950adae94ba",
+        "android_client_info": {
+          "package_name": "com.dastory.septik.free.septik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343535101253-e7j92306e65qpi68fvvj3q8ftvonp4a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dastory.septik.free.septik",
+            "certificate_hash": "ee461dd1f24fbfd69564c9ea8f3f88e847a5d3f4"
+          }
+        },
+        {
+          "client_id": "343535101253-dd44529s1g6grd65agfg92s58csg3ujd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv7fDpkfD28TJFbn4a1ia-0pykQnVDt_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343535101253-dd44529s1g6grd65agfg92s58csg3ujd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // широкий бар :
+    <color name="colorPrimary2">#5e35b1</color>
+    // тул бар
+    <color name="colorPrimary">#4527a0</color>
+
+    // верхний бар :
+    <color name="colorPrimaryDark">#5E35B1</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorLiteGreen200">#d9fdff</color>
+    <color name="colorBlueGrey500">#607d8b</color>
+    <color name="colorBlueGrey100">#cfd8dc</color>
+    <color name="colorBlueGrey400">#83a7b9</color>
+    <color name="colorBlueGrey50">#c0dbec</color>
+    <color name="colorBlueGrey700">#124e7e</color>
+    <color name="colorBlack">#ff7700</color>
+    <color name="colorTextMy">#2c4381</color>
+    <color name="colorPrimary43">#ff7700</color>
+    <color name="colorPrimary41">#a7a7a7</color>
+    <color name="colorPrimary47">#797979</color>
+    <color name="colorPrimary69">#5860ff</color>
+    <color name="colorPrimary471">#9fb0d3</color>
+    <color name="colorWite">#ffffff</color>
+    <color name="lemon">#66ff00</color>
+    <color name="colorPrimary22">#681dff</color>
+    <color name="colorPrimary222">#500fd2</color>
+    <color name="colorBlueGrey1001">#eaeaea</color>
+    <color name="colorBlack1">#ff7700</color>
+</resources>
